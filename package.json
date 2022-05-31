@@ -1,0 +1,14 @@
+{
+  "name": "chatServer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pepps01/chatServer.git",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "start-dev": "nodemon index.js"
+  }
+}
